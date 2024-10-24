@@ -10,4 +10,4 @@ jobs:
     with:
       keyboard: '["crkbd"]'
       layers: '["flip"]'
-      custom_config: '["RGBLIGHT_ENABLE"]'
+      custom_config: '["RGB_MATRIX_ENABLE = WS2812"]'
