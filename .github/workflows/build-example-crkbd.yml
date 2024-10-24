@@ -10,4 +10,5 @@ jobs:
     with:
       keyboard: '["crkbd"]'
       layers: '["flip"]'
+      custom_config: '["#define TAPPING_TERM 200"]'
 
